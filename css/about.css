@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+p{
+	color:#ffffff;
+	align-content:center;
+	size:10px;
+	
+	}
+#right-side{
+	padding-left:50 px;
+	padding-right:50 px;
+}
